@@ -4,7 +4,7 @@
 
 - **Name:** Joshua Reynoso
 - **Project Board (Project v2):** <paste your board URL here>
-- **Live Portfolio (GitHub Pages):** <https://USERNAME.github.io/REPO/>
+- **Live Portfolio (GitHub Pages):** jareynos.github.io
 
 ---
 
@@ -103,5 +103,6 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
 
