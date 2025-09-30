@@ -3,7 +3,7 @@
 > Personal progress page for CSCI4208. Keep this file updated as you complete labs, projects, and capstone milestones.
 
 - **Name:** Joshua Reynoso
-- **Project Board (Project v2):** <paste your board URL here>
+- **Project Board (Project v2):** [https://github.com/users/jareynos/projects/7](https://github.com/users/jareynos/projects/7)
 - **Live Portfolio (GitHub Pages):** [jareynos.github.io](jareynos.github.io)
 
 ---
@@ -103,6 +103,7 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
 
 
