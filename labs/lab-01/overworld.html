@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title> Adventure Game </title>
+        <link rel="icon" href="assets/dragon-logo.png"/>
+    </head>
+    <body>
+        <h1>Overworld</h1>
+        <hr>
+        <img src='assets/overworld-map.gif' width="400" />
+
+        <h4>Where do you want to go></h4>
+
+        <u1>
+            <li><a id='dungeon' href= 'dungeon.html'> Dungeon </a></li>
+            <li><a id='forest' href= 'forest.html'> Forest </a></li>
+            <li><a id='shoppe' href= 'shoppe.html'> Shoppe </a></li>
+        </u1>
+        <hr> 
+        <iframe src='inventory.html' id=inventory height=100 width=125></iframe>
+    <script>
+        inventory.src += location.search; // Concat the search parameter to the iframe's src attribute.
+        shoppe.href += location.search; // Concat the search parameter to the anchor's href attribute.
+        forest.href += location.search; //Concat the search parameter to the anchor's href attribute
+        dungeon.href += location.search; // Concat the search parameter to the anchor's href attribute.
+    </script>
+    </body>
+</html>
+
