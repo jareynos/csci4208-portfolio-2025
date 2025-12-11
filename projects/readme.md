@@ -1,16 +1,15 @@
-# Projects — Submission Guidelines (Pointer-Only)
+# Project 1 
 
-**This folder does not contain project code.**  
-Each project is built in its **own standalone GitHub repository** (your “real” codebase).  
-In this repo, you submit a **pointer README** per project that links to your external repo, the live site, and demo instructions.
+Live URL:
+External Repo:
 
 ---
 
-## Before you start
-- **Read the project brief end-to-end.** Know the goals, rubric, and required deliverables.
-- Create a **public GitHub repo** for your project (self-contained, standard structure, clear README).
-- If the brief requires deployment (static phase): plan your host (GitHub Pages / Netlify / Vercel) and get a **live URL**.
-
+## How to Demo
+* Open Live URL above in any browser
+* Game starts with index.html with introduction
+* Navigate using choices
+* 
 ---
 
 ## What belongs in `projects/<project-key>/` here
