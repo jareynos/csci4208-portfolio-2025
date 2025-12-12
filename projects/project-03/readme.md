@@ -5,13 +5,12 @@
 **External Repo:** https://github.com/jareynos/Adv_Web_Apps_Capstone_Flashcard_Decks/tree/main
 
 ---
-## 🎮 How to Demo (grader script)
+## Quick start
+1. `npm install`
+2. `npm start`
+3. Open `http://localhost:3000` and register or login
 
-1. Open the **Live URL** above in any browser.  
-2. The game starts at `index.html` with an introduction.  
-3. Navigate using the choices (links/buttons).  
-4. Go to the village -> ruins -> secret path and follow through with the path, do not backout. 
-
+This demo adds simple plaintext user accounts and server-side sessions so each user has their own decks. **Passwords are stored in plaintext for demo purposes only — do not use this pattern in professional use.**
 
 ## Run Locally 
 
@@ -19,6 +18,7 @@
 
 ## Notes
 My capstone project.
+
 
 
 
