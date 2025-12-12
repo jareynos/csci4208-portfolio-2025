@@ -15,10 +15,11 @@
 
 ## Run Locally 
 
-- **Check here!:** <https://github.com/jareynos/Adv_Web_Apps_Project1_HTML_CSS-Game>
+- **Check here!:** <https://github.com/jareynos/Adv_Web_Apps_Capstone_Flashcard_Decks/tree/main>
 
 ## Notes
 My favorite project.
+
 
 
 
