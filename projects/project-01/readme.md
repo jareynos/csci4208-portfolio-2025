@@ -1,6 +1,6 @@
 # Starfall: A Journey Through Shadows — project01
 
-**Live URL:** https://jareynos.github.io/Adv_Web_Apps_Project1_HTML_CSS-Game.git/
+**Live URL:** https://jareynos.github.io/Adv_Web_Apps_Project1_HTML_CSS-Game/
 
 **External Repo:** https://github.com/jareynos/Adv_Web_Apps_Project1_HTML_CSS-Game.git
 
@@ -19,4 +19,5 @@
 
 ## Notes
 My favorite project.
+
 
