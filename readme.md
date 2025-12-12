@@ -26,12 +26,12 @@
 <!-- STATUS:START -->
 | Item | Key | Status |
 |---|---|---|
-| Capstone-01 — Find a Team [#8](https://github.com/jareynos/csci4208-portfolio-2025/issues/8) | `capstone-01` | open |
+| Capstone-01 — Find a Team [#8](https://github.com/jareynos/csci4208-portfolio-2025/issues/8) | `capstone-01` | closed |
 | Lab-01 — HTML-first Interactive Game (minimal JS) [#1](https://github.com/jareynos/csci4208-portfolio-2025/issues/1) | `lab-01` | closed |
 | Lab-02 — CSS: Crash Course [#2](https://github.com/jareynos/csci4208-portfolio-2025/issues/2) | `lab-02` | closed |
 | Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/jareynos/csci4208-portfolio-2025/issues/3) | `lab-03` | closed |
 | Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#4](https://github.com/jareynos/csci4208-portfolio-2025/issues/4) | `lab-04` | closed |
-| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#26](https://github.com/jareynos/csci4208-portfolio-2025/issues/26) | `lab-05` | closed |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#26](https://github.com/jareynos/csci4208-portfolio-2025/issues/26) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#25](https://github.com/jareynos/csci4208-portfolio-2025/issues/25) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#24](https://github.com/jareynos/csci4208-portfolio-2025/issues/24) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#23](https://github.com/jareynos/csci4208-portfolio-2025/issues/23) | `lab-05` | open |
@@ -45,11 +45,11 @@
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#15](https://github.com/jareynos/csci4208-portfolio-2025/issues/15) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#14](https://github.com/jareynos/csci4208-portfolio-2025/issues/14) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#9](https://github.com/jareynos/csci4208-portfolio-2025/issues/9) | `lab-05` | open |
-| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#5](https://github.com/jareynos/csci4208-portfolio-2025/issues/5) | `lab-05` | open |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#5](https://github.com/jareynos/csci4208-portfolio-2025/issues/5) | `lab-05` | closed |
 | Lab-06 — REST Client: Quiz Game + Leaderboard (Modules + Fetch) [#10](https://github.com/jareynos/csci4208-portfolio-2025/issues/10) | `lab-06` | closed |
 | Lab-07 — Browser Data Layer: Mock Document DB [#28](https://github.com/jareynos/csci4208-portfolio-2025/issues/28) | `lab-07` | closed |
 | Project-0 — Set up Repo, Project Board, Actions & Pages [#6](https://github.com/jareynos/csci4208-portfolio-2025/issues/6) | `project-00` | closed |
-| Project-01 — Interactive Game in HTML & CSS [#7](https://github.com/jareynos/csci4208-portfolio-2025/issues/7) | `project-01` | open |
+| Project-01 — Interactive Game in HTML & CSS [#7](https://github.com/jareynos/csci4208-portfolio-2025/issues/7) | `project-01` | closed |
 | Project-02 — Sprint 3: Full Feature Set & Polish [#13](https://github.com/jareynos/csci4208-portfolio-2025/issues/13) | `project-02` | open |
 | Project-02 — Sprint 2: MVP Vertical Slice [#12](https://github.com/jareynos/csci4208-portfolio-2025/issues/12) | `project-02` | open |
 | Project-02 — Sprint 1: Pitch & Roadmap Proposal [#11](https://github.com/jareynos/csci4208-portfolio-2025/issues/11) | `project-02` | open |
