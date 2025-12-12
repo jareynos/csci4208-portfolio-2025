@@ -1,6 +1,6 @@
 # Flashcard Decks — Capstone & Project 3
 
-**Live URL:** https://jareynos.github.io/Adv_Web_Apps_Project1_HTML_CSS-Game/
+**Live URL:** https://jareynos.github.io/Adv_Web_Apps_Capstone_Flashcard_Decks/
 
 **External Repo:** https://github.com/jareynos/Adv_Web_Apps_Capstone_Flashcard_Decks/tree/main
 
@@ -19,6 +19,7 @@
 
 ## Notes
 My favorite project.
+
 
 
 
