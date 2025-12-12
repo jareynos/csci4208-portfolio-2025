@@ -4,7 +4,7 @@
 
 - **Name:** Joshua Reynoso
 - **Project Board (Project v2):** [https://github.com/users/jareynos/projects/7](https://github.com/users/jareynos/projects/7)
-- **Live Portfolio (GitHub Pages):** [https://github.com/jareynos/jareynos.github.io/tree/main](https://github.com/jareynos/jareynos.github.io/tree/main)
+- **Live Portfolio (GitHub Pages):** [https://jareynos.github.io](https://jareynos.github.io)
 
 ---
 
@@ -122,6 +122,7 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
 
 
