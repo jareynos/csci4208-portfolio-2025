@@ -16,4 +16,5 @@ We learn the structure about:
 * HTML Script tags with Embedded Java Script
 * URL Search Parameters/Query Strings
 
+How to Play?
 Download all of the files, and once they're in the same folder, run index.html on web browser.
