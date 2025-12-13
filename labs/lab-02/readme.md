@@ -7,3 +7,7 @@ We Learn:
 * CSS Selectors
 * Flexbox vs Gridview
 * Google Fonts API
+
+How to use?
+
+run the index.html file to use.
